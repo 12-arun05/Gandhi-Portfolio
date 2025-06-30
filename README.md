@@ -48,11 +48,11 @@ portfolio-website/
 
 ## 📸 Screenshots
 
-![Screenshot 1](screenshot/Screenshot_167.png)
-![Screenshot 2](screenshot/Screenshot_168.png)
-![Screenshot 3](screenshot/Screenshot_169.png)
-![Screenshot 4](screenshot/Screenshot_170.png)
-![Screenshot 5](screenshot/Screenshot_171.png)
+![Screenshot 1](screenshot/Screenshot (167).png)
+![Screenshot 2](screenshot/Screenshot (168).png)
+![Screenshot 3](screenshot/Screenshot (169).png)
+![Screenshot 4](screenshot/Screenshot (170).png)
+![Screenshot 5](screenshot/Screenshot (171).png)
 
 
 ---
