@@ -48,8 +48,12 @@ portfolio-website/
 
 ## 📸 Screenshots
 
-*(Optional: Add screenshots of your portfolio site here)*  
-`![Portfolio Screenshot](assets/images/screenshot.png)`
+![Screenshot 1](screenshot/Screenshot_167.png)
+![Screenshot 2](screenshot/Screenshot_168.png)
+![Screenshot 3](screenshot/Screenshot_169.png)
+![Screenshot 4](screenshot/Screenshot_170.png)
+![Screenshot 5](screenshot/Screenshot_171.png)
+
 
 ---
 
