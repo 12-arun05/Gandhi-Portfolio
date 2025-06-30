@@ -7,7 +7,6 @@ This site showcases my projects, skills, certifications, and contact information
 ## 🚀 Live Preview
 
 👉 [View Portfolio](https://12-arun05.github.io/Gandhi-Portfolio/#)  
-*(Replace with your actual deployed URL)*
 
 ---
 
