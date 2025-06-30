@@ -46,17 +46,6 @@ portfolio-website/
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot 1](screenshot/Screenshot (167).png)
-![Screenshot 2](screenshot/Screenshot (168).png)
-![Screenshot 3](screenshot/Screenshot (169).png)
-![Screenshot 4](screenshot/Screenshot (170).png)
-![Screenshot 5](screenshot/Screenshot (171).png)
-
-
----
-
 ## 💡 Inspiration
 
 I built this project to create a strong digital presence and display my skills, achievements, and recent works in a professional way. It reflects my passion for front-end development and clean UI/UX design.
